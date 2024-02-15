@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wBuUoF3YnhXn/n+jew6ov/5RjsLAnaU+8gbcGMyz79m6ajLFYH1EFkV2lLH7QZXnrw4lbrB6C6eIOE4iSlYt9g==",
+  "dgSpecHash": "DwJW5NBnlVJhEKRTHLFJrDk85DJKASmRblUekknGZA5ndy4dUjI4ihR7gR5hjcA0bhGc9wKhHPENgyTbM/+fMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jerry\\source\\repos\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "projectFilePath": "C:\\Users\\Jerry\\source\\repos\\temp\\CreateTableForOracle\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jerry\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
     "C:\\Users\\Jerry\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",

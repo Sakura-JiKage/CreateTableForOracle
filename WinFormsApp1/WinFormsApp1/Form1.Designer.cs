@@ -93,7 +93,7 @@
             // 
             button3.Location = new Point(12, 155);
             button3.Name = "button3";
-            button3.Size = new Size(112, 34);
+            button3.Size = new Size(182, 34);
             button3.TabIndex = 6;
             button3.Text = "运行（生成SQL）";
             button3.UseVisualStyleBackColor = true;
